@@ -1,6 +1,10 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
+#Copyright(c)2021 2020_7班.All rights reserved.
+#Copyright(c)2021 Matsuda Hiroyuki.
+
 import rospy
 import moveit_commander
 import geometry_msgs.msg
